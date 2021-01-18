@@ -1,5 +1,5 @@
 # Bias-detection-in-NLP
-The aim of this work was to detect gender bias in hiring procedures and was conducted in partnership with an industry partner.
+The aim of this work was to detect gender bias in hiring procedures and was conducted in collaboration with an industry partner.
 Word embeddings are the centre of this approach since they are the fundamental building blocks of many NLP applications.
 Our partner provided us with numerous CVs and cover letters of applicants so that we can train our own embeddings. Moreover, the publicly available 
 GloVe word embeddings were also utilised for comparison and algorithm performance reasons.
