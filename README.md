@@ -8,4 +8,4 @@ An approach to certify and detect gender bias in the vector space of the embeddi
 learning techniques and algebraic operations. Additionally, beginning from a 'black list' that contains gender-implying words, two classifiers were developed in order to 
 generalize this list and provide us with a set of words that need to be extracted from the applicants' supporting documents during the hiring procedure.
 
-The supporting documents used to build our own word embeddings belong to our industry partner and constitute sensitive information, thus we cannot make tham public.
+The supporting documents used to build our own word embeddings belong to our industry partner and constitute sensitive information, thus we cannot make them public.
